@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Zack. A software developer.<br>- 🌱 Currently working as a Full Stack engineer.<br>- 👨‍💻 Frameworks and Libraries: Django, Quarkus, React, NextJS.<br>- 🤓 Programming languages: Python, JavaScript and Kotlin.<br>- 🤝 Looking to contribute to Javascript libraries and ML projects.
+- 👋 Hi, I’m Zack. A software developer.<br>- 🌱 Currently working as a Full Stack engineer.<br>- 👨‍💻 Frameworks and Libraries: Django, Quarkus, React, NextJS.<br>- 🤓 Main programming languages: Python, JavaScript and Kotlin.<br>- 🤝 Looking to contribute to Javascript libraries and ML projects.
 
 
 ## 🌐 Socials:
