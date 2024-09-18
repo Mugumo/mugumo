@@ -10,4 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mugumo&theme=dark&hide_border=false)<br/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
