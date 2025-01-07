@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mugumo&theme=dark&hide_border=false)<br/>
 
-# Weekly WAKA Stats:
+# ⏱️ Weekly WAKA Stats:
 <!--START_SECTION:waka-->
 
 ```txt
