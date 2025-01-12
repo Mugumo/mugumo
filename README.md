@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 January 2025 - To: 10 January 2025
+From: 04 January 2025 - To: 11 January 2025
 
 YAML              7 hrs 6 mins    ████████████░░░░░░░░░░░░░   48.57 %
 TypeScript        2 hrs 54 mins   █████░░░░░░░░░░░░░░░░░░░░   19.88 %
