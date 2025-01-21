@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2025 - To: 19 January 2025
+From: 13 January 2025 - To: 20 January 2025
 
-Kotlin            5 hrs 47 mins   ████████████░░░░░░░░░░░░░   48.26 %
-YAML              3 hrs 33 mins   ███████▒░░░░░░░░░░░░░░░░░   29.66 %
-TypeScript        1 hr 45 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
-Python            28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-Other             15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Kotlin            7 hrs 48 mins   ███████████████░░░░░░░░░░   60.14 %
+YAML              2 hrs 33 mins   █████░░░░░░░░░░░░░░░░░░░░   19.66 %
+TypeScript        1 hr 45 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
+Python            29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Other             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka-->
