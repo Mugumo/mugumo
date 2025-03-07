@@ -3,7 +3,7 @@
 - 👨🏽‍💻 Currently working as a Full Stack engineer.<br>
 - 📜 Frameworks and Libraries: Django, Quarkus, React, NextJS, Spring Boot, Node.js.<br>
 - 💪🏽 Main programming languages: Python, Kotlin and JavaScript.<br>
-- 🤝🏽 Looking to contribute to Javascript libraries and ML projects.
+- 🤝🏽 Looking to contribute to open source or volunteer projects.
 
 
 ## 🌐 Socials:
