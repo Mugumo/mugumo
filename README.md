@@ -15,19 +15,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mugumo&theme=dark&hide_border=false)<br/>
 
-# ⏱️ WAKA Stats:
-<!--START_SECTION:waka-->
-
-```txt
-From: 27 February 2025 - To: 06 March 2025
-
-Python                     58 mins         ██████░░░░░░░░░░░░░░░░░░░   24.49 %
-YAML                       51 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.51 %
-Docker                     51 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.50 %
-TypeScript                 34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
-Other                      27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
-```
-
-<!--END_SECTION:waka-->
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
